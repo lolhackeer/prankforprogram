@@ -1,9 +1,8 @@
 # Security Policy
 
-## Supported Versions
+## Supported Versions 
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This program is only for Windows.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -15,3 +14,6 @@ currently being supported with security updates.
 | Windows XP| :white_check_mark: |
 | Windows 98| :white_check_mark: |
 | Windows 95| :white_check_mark: |
+
+This files can be removed.
+This is not a real virus, just prank virus.
